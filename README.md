@@ -12,6 +12,7 @@ This is a template repository to create slides using [Marp](https://marp.app/). 
 ## References
 
 * [Marp: Markdown Presentation Ecosystem](https://marp.app/)
+* [git-auto-commit Action](https://github.com/stefanzweifel/git-auto-commit-action)
 
 ## License
 
